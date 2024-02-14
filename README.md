@@ -42,18 +42,19 @@
 Распознанная информация сохраняется в текстовые файлы.
 
 ## Пользовательский интерфейс <a name=topic3></a>
-!["User form"](ScreenShots/0.png "User interface")
+
+!["User form"](/SccreenShots/0.png "Example 01")
 
 ## Примеры работы программы <a name=topic4></a>
-!["User form"](ScreenShots/5.png)
+!["User form"](SccreenShots/5.png)
 
-!["User form"](ScreenShots/1.png)
+!["User form"](SccreenShots/1.png)
 
-!["User form"](ScreenShots/2.png)
+!["User form"](SccreenShots/2.png)
 
-!["User form"](ScreenShots/3.png)
+!["User form"](SccreenShots/3.png)
 
-!["User form"](ScreenShots/4.png)
+!["User form"](SccreenShots/4.png)
 
 
 
