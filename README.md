@@ -46,7 +46,7 @@
 !["User form"](/SccreenShots/0.png "Example 01")
 
 ## Примеры работы программы <a name=topic4></a>
-!["User form"](SccreenShots/img_5.png)
+!["User form"](SccreenShots/Img_5.png)
 
 !["User form"](SccreenShots/1.png)
 
